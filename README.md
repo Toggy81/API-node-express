@@ -1,1 +1,1 @@
-# api-node-express
+# Basic Node.js local REST using Express
