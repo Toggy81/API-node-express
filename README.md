@@ -14,7 +14,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://blog.rocketseat.com.br/author/thiago/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/43882173?s=96&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Ricardo Montes</b></sub></a> <a href="https://toggy81.github.io/personal-page/" title="Rocketseat">🚀</a>
+ <sub><b>Ricardo Montes</b></sub></a> <a href="https://toggy81.github.io/personal-page/" title="PersonalPage">🚀</a>
 
 
 Feito com ❤️ por Ricardo Montes 👋🏽 Entre em contato!
