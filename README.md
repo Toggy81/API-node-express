@@ -11,7 +11,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Back End (servidor)
@@ -31,29 +31,31 @@ $ node index.js
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
 Utilize as seguintes requisições no seu software de preferência. Para este exemplo utilizamos o [Insomnia](https://insomnia.rest/download):
 
 - Para listar usuários
-<h1 align="center">
-  <img alt="#rest" title="#rest" src="./imgs/get.png" />
+<h1 align="left">
+  <img alt="get_img"  src="./imgs/get.png" >
 </h1>
 
 - Para inserir usuários
-<h1 align="center">
-  <img alt="#rest" title="#rest" src="./imgs/post.png" />
+<h1 align="left">
+  <img alt="post_img" src="./imgs/post.png" >
 </h1>
 
 - Para atualizar os dados de um usuário
-<h1 align="center">
-  <img alt="#rest" title="#rest" src="./imgs/put.png" />
+<h1 align="left">
+  <img alt="put_img" src="./imgs/put.png" >
 </h1>
 
 - Para deletar um usuário
-<h1 align="center">
-  <img alt="#rest" title="#rest" src="./imgs/delete.png" />
+<h1 align="left">
+  <img alt="delete_img" src="./imgs/delete.png" >
 </h1>
 
 ### Autor
+
 ---
 
 <a href="https://toggy81.github.io/personal-page/">
@@ -61,8 +63,7 @@ Utilize as seguintes requisições no seu software de preferência. Para este ex
  <br />
  <sub><b>Ricardo Montes</b></sub></a>
 
-
 Feito com ❤️ por Ricardo Montes 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Toggy81/)](https://www.linkedin.com/in/Toggy81/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Toggy81/)](https://www.linkedin.com/in/Toggy81/)
 [![Gmail Badge](https://img.shields.io/badge/-tognolamontes@yahoo.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tognolamontes@yahoo.com.br)
