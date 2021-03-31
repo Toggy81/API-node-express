@@ -31,6 +31,19 @@ $ node index.js
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+Utilize as seguintes requisições no seu software de preferência. Para este exemplo utilizamos o [Insomnia](https://insomnia.rest/download):
+
+- Para listar usuários
+<img alt="" title="" src="./imgs/get.png" />
+
+- Para inserir usuários
+<img alt="" title="" src="./imgs/post.png" />
+
+- Para atualizar os dados de um usuário
+<img alt="" title="" src="./imgs/put.png" />
+
+- Para deletar um usuário
+<img alt="" title="" src="./imgs/delete.png" />
 
 ### Autor
 ---
