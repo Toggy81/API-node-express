@@ -5,6 +5,9 @@ const userRoute = require('./routes/userRoute')
 const app = express()
 const port = 3000
 
+app.use(express.urlencoded({extended: true}))
+
+
 userRoute(app)
 
 app.get('/', (req, res) => res.send('Olá mundo pelo Express'))
