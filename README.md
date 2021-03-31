@@ -34,16 +34,24 @@ $ node index.js
 Utilize as seguintes requisições no seu software de preferência. Para este exemplo utilizamos o [Insomnia](https://insomnia.rest/download):
 
 - Para listar usuários
-<img alt="" title="" src="./imgs/get.png" />
+<h1 align="center">
+  <img alt="#rest" title="#rest" src="./imgs/get.png" />
+</h1>
 
 - Para inserir usuários
-<img alt="" title="" src="./imgs/post.png" />
+<h1 align="center">
+  <img alt="#rest" title="#rest" src="./imgs/post.png" />
+</h1>
 
 - Para atualizar os dados de um usuário
-<img alt="" title="" src="./imgs/put.png" />
+<h1 align="center">
+  <img alt="#rest" title="#rest" src="./imgs/put.png" />
+</h1>
 
 - Para deletar um usuário
-<img alt="" title="" src="./imgs/delete.png" />
+<h1 align="center">
+  <img alt="#rest" title="#rest" src="./imgs/delete.png" />
+</h1>
 
 ### Autor
 ---
